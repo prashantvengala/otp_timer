@@ -7,8 +7,6 @@ A simple React-based OTP verification interface with a countdown timer and resen
 - Countdown timer (minutes & seconds)
 - Resend OTP with cooldown
 - Submit with OTP validation
-- Real-time feedback and user-friendly interface
-- Ready for backend integration
 
 ## 🚀 Getting Started
 
